@@ -1,0 +1,2 @@
+module FromHelper
+end

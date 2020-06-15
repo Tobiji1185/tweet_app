@@ -1,0 +1,7 @@
+echo "# tweet_app" >> README.md
+git init
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/Tobiji1185/tweet_app.git
+git push -u origin master
+                
